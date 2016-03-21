@@ -1,3 +1,4 @@
+
 # chose between sum or product of numbers
 require 'pry'
 def prompt(message)
